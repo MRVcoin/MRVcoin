@@ -1,0 +1,9 @@
+Building Marvelous
+
+See doc/readme-qt.rst for instructions on building Marvelous QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Marvelous.
+
+See doc/build-*.txt for instructions on building marvelousd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Marvelous.
